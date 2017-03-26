@@ -1,0 +1,11 @@
+D:\app\my\AbstractHandler\AbstractHandler\bin\Debug\AbstractHandler.exe.config
+D:\app\my\AbstractHandler\AbstractHandler\bin\Debug\AbstractHandler.exe
+D:\app\my\AbstractHandler\AbstractHandler\bin\Debug\AbstractHandler.pdb
+D:\app\my\AbstractHandler\AbstractHandler\obj\Debug\AbstractHandler.exe
+D:\app\my\AbstractHandler\AbstractHandler\obj\Debug\AbstractHandler.pdb
+C:\app\my\AbstractHandler\AbstractHandler\bin\Debug\AbstractHandler.exe.config
+C:\app\my\AbstractHandler\AbstractHandler\obj\Debug\AbstractHandler.exe
+C:\app\my\AbstractHandler\AbstractHandler\obj\Debug\AbstractHandler.pdb
+C:\app\my\AbstractHandler\AbstractHandler\bin\Debug\AbstractHandler.exe
+C:\app\my\AbstractHandler\AbstractHandler\bin\Debug\AbstractHandler.pdb
+C:\app\my\AbstractHandler\AbstractHandler\obj\Debug\AbstractHandler.csprojResolveAssemblyReference.cache
